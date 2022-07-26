@@ -1,4 +1,4 @@
-# Comming Soon Page
+# Mobile App Template Page
 *This website for Mobile App template*
 
 ![Outpout](/img/output.png)
