@@ -3,6 +3,6 @@
 
 ![Outpout](/img/output.png)
 
-[Visit Website](link.com)
+[Visit Website](https://mobileappprowiggle.netlify.app/)
 
-[![Generic badge](https://img.shields.io/badge/Live-STATUS-<COLOR>.svg)](link.com)
+[![Generic badge](https://img.shields.io/badge/Live-STATUS-<COLOR>.svg)](https://mobileappprowiggle.netlify.app/)
